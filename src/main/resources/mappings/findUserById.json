@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPathPattern": "/api/users/([0-9]*)"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "findUserById_res.json",
+    "headers": {
+      "Content-Type": "application/json;charset=UTF-8"
+    }
+  }
+}

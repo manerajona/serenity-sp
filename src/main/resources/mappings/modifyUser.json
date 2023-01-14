@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "PUT",
+    "urlPathPattern": "/api/users/([0-9]*)"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "modifyUser_res.json",
+    "headers": {
+      "Content-Type": "application/json;charset=UTF-8"
+    }
+  }
+}
