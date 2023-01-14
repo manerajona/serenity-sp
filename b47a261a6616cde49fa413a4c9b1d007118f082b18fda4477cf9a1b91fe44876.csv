@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"When interacting with users","Find user by id","SUCCESS","2023-01-14T10:55:58.922241967Z[Etc/UTC]","0.0","0.43"
+"When interacting with users","Delete user","SUCCESS","2023-01-14T10:55:59.365544862Z[Etc/UTC]","0.0","0.39"
+"When interacting with users","Modify user","SUCCESS","2023-01-14T10:55:59.766160693Z[Etc/UTC]","0.0","0.45"
+"When interacting with users","Create user","SUCCESS","2023-01-14T10:56:00.236814293Z[Etc/UTC]","0.0","0.42"
+"When interacting with users","List users","SUCCESS","2023-01-14T10:56:00.673746563Z[Etc/UTC]","0.0","0.42"
+"When interacting with users","Find user by id and parse object","SUCCESS","2023-01-14T10:56:01.108716826Z[Etc/UTC]","0.0","0.22"

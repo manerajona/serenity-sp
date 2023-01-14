@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"When interacting with users using tasks","Find user by id","SUCCESS","2023-01-14T10:55:51.993738804Z[Etc/UTC]","0.0","5.48"
+"When interacting with users using tasks","Create user","SUCCESS","2023-01-14T10:55:57.567817613Z[Etc/UTC]","0.0","0.82"
+"When interacting with users using tasks","List users","SUCCESS","2023-01-14T10:55:58.400666473Z[Etc/UTC]","0.0","0.48"
