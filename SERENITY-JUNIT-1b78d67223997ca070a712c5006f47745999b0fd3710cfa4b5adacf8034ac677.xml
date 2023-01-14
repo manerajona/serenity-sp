@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="reqres.WhenInteractingWithUsers" skipped="0" tests="1" time="0.25" timestamp="2023-01-14 11:01:58"><testcase classname="reqres.WhenInteractingWithUsers" name="Create user"/></testsuite>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="reqres.WhenInteractingWithUsers" skipped="0" tests="1" time="0.28" timestamp="2023-01-14 11:51:18"><testcase classname="reqres.WhenInteractingWithUsers" name="Create user"/></testsuite>
